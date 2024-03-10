@@ -7,5 +7,5 @@ Site para atividade prática do Instituto Proa! É uma versão modificada de um 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/image.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/bg.png" width="100%">
 </p> 
